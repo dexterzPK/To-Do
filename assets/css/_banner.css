@@ -28,7 +28,6 @@ div.app > header.banner > div.hoverDisplay .date,
 div.app > header.banner > div.hoverDisplay #name {
 	font-size: 1.3rem;
 	color: var(--text-color);
-	text-shadow: 2px 2px 0px rgba(0, 0, 0, 1);
 	font-family: "Ubuntu", sans-serif;
 	word-spacing: 0.15rem;
 }

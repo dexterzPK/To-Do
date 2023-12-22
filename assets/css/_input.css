@@ -88,7 +88,6 @@ div.app div.inputBox form #priority,
 div.app div.inputBox form #category,
 div.app div.inputBox form #date {
 	color: var(--text-color);
-	text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
 	font-size: 1rem;
 	font-family: monospace;
 	word-break: break-all;

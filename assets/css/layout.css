@@ -3,9 +3,9 @@
 /* ----------------General Styling---------------- */
 :root {
 	--bgcolor: black;
-	--circle-color: black;
-	--app-bgcolor: rgba(255, 255, 255, 0.3);
-	--text-color: white;
+    --circle-color: black;
+    --app-bgcolor: rgba(255, 255, 255, 0.3);
+    --text-color: #161515;
 }
 * {
 	margin: 0%;
@@ -35,24 +35,24 @@ div.container ::-webkit-scrollbar {
 }
 /* ----------------Application---------------- */
 div.app {
-	background: var(--app-bgcolor);
-	box-shadow: 0px 0px 10px 1px var(--app-bgcolor);
-	backdrop-filter: blur(7px);
-	-webkit-backdrop-filter: blur(7px);
-	border-radius: 20px;
-	border: 1px solid var(--app-bgcolor);
-	z-index: 2;
-	width: 95%;
-	height: 95%;
-	margin-top: 1%;
-	transition: all 0.2s linear;
-	overflow: hidden;
-	display: flex;
-	flex-direction: column;
+	background: #FDF5DF;
+    box-shadow: 0px 0px 10px 1px var(--app-bgcolor);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    border-radius: 20px;
+    border: 1px solid var(--app-bgcolor);
+    z-index: 2;
+    width: 95%;
+    height: 95%;
+    margin-top: 1%;
+    transition: all 0.2s linear;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
 }
-div.app:hover {
+/* div.app:hover {
 	background: rgba(255, 255, 255, 0.27);
-}
+} */
 /* --------------------------------435px-------------------------------- */
 @media only screen and (max-width: 435px) {
 	div.container {
