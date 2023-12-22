@@ -9,7 +9,7 @@ div.taskBar {
 div.taskBar > div.tabs:hover {
 	background: none;
 	cursor: pointer;
-	color: rgb(47, 0, 255);
+	color: rgb(255, 234, 0);
 }
 #taskCount:hover {
 	cursor: initial;

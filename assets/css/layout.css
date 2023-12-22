@@ -2,8 +2,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap");
 /* ----------------General Styling---------------- */
 :root {
-	--bgcolor: #24c6dc;
-	--circle-color: #6be4e6;
+	--bgcolor: #dc4924;
+	--circle-color: #e6886b;
 	--app-bgcolor: rgba(255, 255, 255, 0.3);
 	--text-color: white;
 }
