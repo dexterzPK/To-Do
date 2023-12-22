@@ -47,13 +47,13 @@
 }
 /* BG Color Classes */
 .high {
-	background-color: red;
+	background-color: rgba(223, 20, 20, 0.584);
 }
 .medium {
-	background-color: rgb(129, 129, 235);
+	background-color: rgba(235, 138, 47, 0.759);
 }
 .low {
-	background-color: rgb(160, 224, 160);
+	background-color: rgb(85, 214, 85);
 }
 .personal {
 	background-color: rgb(241, 101, 101);
@@ -131,7 +131,7 @@
 	letter-spacing: 0.001rem;
 	line-height: 1.3rem;
 	padding: 10px;
-	color: rgba(0, 0, 0, 0.75);
+	color: rgb(84, 158, 141);
 	cursor: initial;
 }
 .task .text .date {
@@ -139,7 +139,7 @@
 	width: 100%;
 	justify-content: flex-start;
 	align-items: center;
-	color: rgb(97, 93, 93);
+	color: rgb(255, 240, 240);
 	cursor: initial;
 }
 /* ----------------Line Through Class---------------- */
