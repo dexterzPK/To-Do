@@ -120,7 +120,7 @@ div.app div.inputBox button i {
 	transition: color 0.1s ease-in;
 }
 div.app div.inputBox button:hover {
-	background-color: #e52e2e;
+	background-color: #3de52e;
 	box-shadow: 0px 15px 20px rgba(77, 229, 46, 0.4);
 	color: var(--text-color);
 	transform: translateY(-7px);
